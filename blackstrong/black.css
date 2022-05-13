@@ -1,0 +1,6 @@
+p {
+  color: black;
+  text-align: left; }
+  p span {
+    color: red;
+    transition: all 1s ease-in-out; }
