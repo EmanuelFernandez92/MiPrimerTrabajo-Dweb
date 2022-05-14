@@ -2,5 +2,5 @@ p {
   color: black;
   text-align: left; }
   p span {
-    color: red;
+    color: $ ;
     transition: all 1s ease-in-out; }
