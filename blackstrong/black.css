@@ -1,6 +1,3 @@
 p {
   color: black;
-  text-align: left; }
-  p span {
-    color: $ ;
-    transition: all 1s ease-in-out; }
+  text-align: center; }
