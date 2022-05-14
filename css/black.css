@@ -1,0 +1,8 @@
+p {
+  color: black;
+  text-align: center; }
+  p span {
+    color: yellow }
+
+div {
+  color: grey; }
